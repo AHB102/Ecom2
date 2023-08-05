@@ -4,10 +4,10 @@ import (
 	"log"
 	"os"
 
-	"github.com/akhil/ecommerce-yt/controllers"
-	"github.com/akhil/ecommerce-yt/database"
-	"github.com/akhil/ecommerce-yt/middleware"
-	"github.com/akhil/ecommerce-yt/routes"
+	"github.com/AHB102/Ecom2/controllers"
+	"github.com/AHB102/Ecom2/database"
+	"github.com/AHB102/Ecom2/middleware"
+	"github.com/AHB102/Ecom2/routes"
 
 	"github.com/gin-gonic/gin"
 )

@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/akhil/ecommerce-yt/models"
+	"github.com/AHB102/Ecom2/models"
 
 	"github.com/gin-gonic/gin"
 	"go.mongodb.org/mongo-driver/bson"
